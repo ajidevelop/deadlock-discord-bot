@@ -1376,7 +1376,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/node@npm:*":
+"@types/node@npm:*, @types/node@npm:^24.0.15":
   version: 24.0.15
   resolution: "@types/node@npm:24.0.15"
   dependencies:
@@ -2136,6 +2136,7 @@ __metadata:
   dependencies:
     "@eslint/js": "npm:^9.31.0"
     "@types/jest": "npm:^30.0.0"
+    "@types/node": "npm:^24.0.15"
     discord.js: "npm:^14.21.0"
     dotenv: "npm:^17.2.0"
     eslint: "npm:^9.31.0"
